@@ -1,0 +1,28 @@
+*{
+    border: 2px solid red;
+}
+
+.header{
+    margin-left: 7%;
+    margin-right: 7%;
+    display: flex;
+}
+
+.logo {
+    display: inline;
+    flex: 1;
+    
+}
+.links {
+    display: inline;
+    padding-bottom: 0%;
+
+
+}
+
+.container {
+    display: flex;
+}
+.items {
+    flex-direction: row;
+}
